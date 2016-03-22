@@ -15,16 +15,18 @@ Move all files in the current working directory into a new subdirectory labelled
 
 #### Directions
 1. Navigate to the directory that is to be organized, and run the script.
+
      ```
         $ cd /Path/To/Current/Directory
         $ bash /Path/To/loose_files.sh
     ```
+    
 2. Files will be copied to a new folder within the current directory, labelled with today's date, e.g. '2016-03-22'.
 3. Confirm `Are you sure? [y/N]` to delete the loose files.
 
 #### TODO:
-[ ] exclude `loose_files.sh` from deletion if it is in the current directory.
+- [ ] exclude `loose_files.sh` from deletion if it is in the current directory.
 
-[ ] check if all files have been successfully copied.
+- [ ] check if all files have been successfully copied.
 
-[ ] reduce redundancy: learn how to process CLI output as objects, arrays and/or store output as variables(?).
+- [ ] reduce redundancy: learn how to process CLI output as objects, arrays and/or store output as variables(?).
