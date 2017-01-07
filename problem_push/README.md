@@ -6,6 +6,7 @@ Automatically save today's algorithm challenge to GitHub.
 2. To get the absolute path to your toy-problems directory, run this
     ```
         $ cd /Path/To/toy-problems
+        
         $ pwd
     ```
     and add an extra slash at the end, e.g. `/Users/YOU/Some/Directory/toy-problems/`
@@ -16,6 +17,7 @@ Automatically save today's algorithm challenge to GitHub.
 1. DO THIS ONLY ONCE: To allow this script to execute, run the following command:
     ```
         $ cd /Path/To/Directory/Containing/problem_push
+        
         $ chmod +x ./problem_push.sh
     ```
 2. Under `# Configuration`:
