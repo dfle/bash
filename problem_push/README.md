@@ -1,8 +1,8 @@
-### loose_files.sh
+### problem_push.sh
 Automatically save today's algorithm challenge to GitHub.
 
 #### Notes
-1. This assumes that have already created and initalized a repository for your toy problems.
+1. This assumes that you have already created and initalized a repository for your toy problems.
 2. To get the absolute path to your toy-problems directory, run this
     ```
         $ cd /Path/To/toy-problems
